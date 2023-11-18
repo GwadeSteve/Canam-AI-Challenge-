@@ -10,7 +10,7 @@ Predictive crowdfunding success model using machine learning algorithms. Analyze
 - [License](#license)
 
 
-## Installation {#installation}
+## Installation (#installation)
 
 ### Prerequisites
 

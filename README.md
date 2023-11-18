@@ -10,7 +10,7 @@ Predictive crowdfunding success model using machine learning algorithms. Analyze
 - [License](#license)
 
 
-## Installation {#installation}
+## Installation
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ To get started with this project, follow these steps:
 3. You are ready to go
 
 
-## Contributing {#contributing}
+## Contributing 
 
 If you'd like to contribute to this or make any suggestion, Make sure you have read the Directives.pdf file to understand the problem before and follow these guidelines:
 
@@ -54,7 +54,7 @@ If you'd like to contribute to this or make any suggestion, Make sure you have r
 - Describe your pull request clearly, explaining the changes made.
 
 
-## License {#license}
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
